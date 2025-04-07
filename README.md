@@ -1,7 +1,6 @@
 # Data Cleaning Master - Python Application
 
 ## Project Overview
-DALL·E 2024-10-03 23.49.37 - A realistic landscape image showing a modern workspace with a laptop on a desk. The laptop is displaying Python code related to a data cleaning automa.webp
 
 The **Data Cleaning Master** is a Python application designed to efficiently clean datasets by handling duplicates, missing values, and providing cleaned output within seconds. The application is user-friendly, highly performant, and has been tested on various datasets, ensuring smooth execution and accuracy.
 
