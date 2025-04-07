@@ -54,16 +54,6 @@ The key objectives of this project are:
 - **User-friendly Prompts**: Guides the user step by step with appropriate messages and delay prompts.
 - **Multiple Formats Supported**: Handles CSV and Excel files seamlessly.
 
-## Usage
-
-1. Run the application using a Python environment.
-2. Input the dataset path and name when prompted.
-3. The application will automatically clean the dataset and save the results.
-
-```bash
-python data_cleaning_master.py
-```
-
 ## Example of Execution
 
 ```bash
